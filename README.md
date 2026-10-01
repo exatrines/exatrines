@@ -1,6 +1,6 @@
 # How I Work
 
-English | [日本語](ja.md)
+English | [日本語](README.ja.md)
 
 Here is how I use AI in development and approach contributions to my projects and others.
 

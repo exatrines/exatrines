@@ -1,6 +1,6 @@
 # How I Work
 
-English | [日本語](./docs/README.ja.md)
+English | [日本語](https://github.com/exatrines/exatrines/blob/main/docs/README.ja.md)
 
 Here is how I use AI in development and approach contributions to my projects and others.
 

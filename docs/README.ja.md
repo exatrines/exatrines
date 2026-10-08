@@ -1,6 +1,6 @@
 # 開発への取り組み
 
-[English](README.md) | 日本語
+[English](https://github.com/exatrines/exatrines/blob/main/README.md) | 日本語
 
 開発でのAIの使い方と、私のプロジェクトへの参加・他のプロジェクトへの貢献についての方針をまとめています。
 

@@ -1,6 +1,6 @@
 # Contributing
 
-English | [日本語](./docs/CONTRIBUTING.ja.md)
+English | [日本語](https://github.com/exatrines/exatrines/blob/main/docs/CONTRIBUTING.ja.md)
 
 Contributions are always welcome! Bug reports, suggestions, documentation improvements, and pull requests all help make these projects better.
 

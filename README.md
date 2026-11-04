@@ -1,5 +1,3 @@
-# exatrines - mirage
-
 ## Development Policy
 
 **AI Usage Policy** - [English](AI_POLICY.md) / [日本語](AI_POLICY.ja.md)<br>

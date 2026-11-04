@@ -1,6 +1,4 @@
-# exatrines
-
-Building tools, plugins, and other software.
+# exatrines - mirage
 
 ## Development Policy
 

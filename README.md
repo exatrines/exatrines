@@ -1,34 +1,22 @@
-# How I Work
+# exatrines
 
-English | [日本語](https://github.com/exatrines/exatrines/blob/main/docs/README.ja.md)
+Building tools, plugins, and other software.
 
-Here is how I use AI in development and approach contributions to my projects and others.
+## Development Policy
 
-## AI in My Development Workflow
+**AI Usage** - [English](AI_POLICY.md) / [日本語](AI_POLICY.ja.md)<br>
+I use AI to support development, review its changes myself, and take responsibility for the results.
 
-I use AI to support the following tasks:
+**Contributions** - [English](CONTRIBUTING.md) / [日本語](CONTRIBUTING.ja.md)<br>
+AI-assisted PRs are welcome. Please explain your changes in your own words and review and test them yourself.
 
-- Code refactoring
-- Discussions about complex logic and design
-- Creating and translating documentation
-- Git management and release tasks
+## Products
 
-**I only use AI for changes I can understand and review myself.** I review its suggestions and changes, perform the necessary testing, and take responsibility for the final decisions and results.
+**Dalamud Plugins** - [Repo](https://github.com/exatrines/DalamudPlugins)<br>
+Enhance your FFXIV gameplay with plugins.
 
-My projects include code and documentation generated or edited with AI. If you prefer not to use software developed with AI assistance, please take this into account when deciding whether to use my projects.
+- <img src="https://raw.githubusercontent.com/exatrines/Oracle/main/Oracle/Data/plugin-icon.png" width="24" height="24" align="absmiddle" alt=""> **[Oracle](https://github.com/exatrines/Oracle)** - Right skill. Right second. Every pull.
 
-## Contributing to My Projects
+- <img src="https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/EnhancedQuickPanel/Data/plugin-icon.png" width="24" height="24" align="absmiddle" alt=""> **[Enhanced Quick Panel](https://github.com/exatrines/EnhancedQuickPanel)** - A customizable quick panel overlay.
 
-Contributions are welcome, including pull requests made with AI assistance. I evaluate changes based on their purpose, content, and quality.
-
-Whether or not you use AI, please:
-
-- **Explain why the change is necessary in your own words.**
-- Understand and review your changes, and perform the necessary testing.
-- Follow the project's license and contribution guidelines.
-
-Check the repository's `CONTRIBUTING.md`, where available, for project-specific guidance.
-
-## When I Contribute to Other Projects
-
-I follow each project's license, contribution guidelines, and AI usage policy, including any restrictions or prohibitions on AI use.
+- <img src="https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png" width="24" height="24" align="absmiddle" alt=""> **[DTR Overlay](https://github.com/exatrines/DTROverlay)** - Customizable DTR overlay.

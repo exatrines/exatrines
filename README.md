@@ -4,10 +4,10 @@ Building tools, plugins, and other software.
 
 ## Development Policy
 
-**AI Usage** - [English](AI_POLICY.md) / [日本語](AI_POLICY.ja.md)<br>
+**AI Usage Policy** - [English](AI_POLICY.md) / [日本語](AI_POLICY.ja.md)<br>
 I use AI to support development, review its changes myself, and take responsibility for the results.
 
-**Contributions** - [English](CONTRIBUTING.md) / [日本語](CONTRIBUTING.ja.md)<br>
+**Contribution Guide** - [English](CONTRIBUTING.md) / [日本語](CONTRIBUTING.ja.md)<br>
 AI-assisted PRs are welcome. Please explain your changes in your own words and review and test them yourself.
 
 ## Products
